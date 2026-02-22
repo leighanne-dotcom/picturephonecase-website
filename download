@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "title": "Create blog data structure and content",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "title": "Build blog listing page with filters",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "title": "Build blog post detail page with Article schema",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "title": "Create Celebrations & Gift Ideas page",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "title": "Add blog and celebrations routes to router",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "title": "Update navigation and footer with new pages",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "title": "Verify all new pages and SEO",
+      "status": "completed",
+      "priority": "medium"
+    }
+  ]
+}
